@@ -1,0 +1,1177 @@
+@font-face {
+  font-family: "font_family"; /* Project id 1359047 */
+  src: url('iconfont.woff?t=1652347628735') format('woff');
+}
+
+.esh-common{
+  font-family: "font_family" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ehs-unchecked-radio:before {
+  content: "\e1097";
+}
+
+.icon-ehs-filedone1:before {
+  content: "\1096";
+}
+
+.icon-ehs-clock-fill:before {
+  content: "\e1094";
+}
+
+.icon-ehs-checked-radio:before {
+  content: "\e1095";
+}
+
+.icon-ehs-no-data:before {
+  content: "\e1093";
+}
+
+.icon-ehs-clocks:before {
+  content: "\e1092";
+}
+
+.icon-ehs-overtime:before {
+  content: "\e1091";
+}
+
+.icon-ehs-delayed-completion:before {
+  content: "\e1090";
+}
+
+.icon-ehs-task-time:before {
+  content: "\e1089";
+}
+
+.icon-ehs-assigned:before {
+  content: "\e1088";
+}
+
+.icon-ehs-task-name:before {
+  content: "\e1087";
+}
+
+.icon-ehs-ongoing:before {
+  content: "\e1086";
+}
+
+.icon-ehs-completed-task:before {
+  content: "\e1085";
+}
+
+.icon-a-ehs-regional-scale:before {
+  content: "\e1084";
+}
+
+.icon-ehs-reduction-scaling:before {
+  content: "\e1083";
+}
+
+.icon-ehs-refresh-statistical:before {
+  content: "\e1082";
+}
+
+.icon-ehs-hourglass-line:before {
+  content: "\e1081";
+}
+
+.icon-ehs-relationship:before {
+  content: "\e1080";
+}
+
+.icon-ehs-restore-table:before {
+  content: "\e1079";
+}
+
+.icon-ehs-file-text:before {
+  content: "\e1078";
+}
+
+.icon-ehs-balance:before {
+  content: "\e1077";
+}
+
+.icon-ehs-factory:before {
+  content: "\e1076";
+}
+
+.icon-ehs-safetycertificate:before {
+  content: "\e1075";
+}
+
+.icon-ehs-list:before {
+  content: "\e1074";
+}
+
+.icon-ehs-mail:before {
+  content: "\e1073";
+}
+
+.icon-ehs-logout:before {
+  content: "\e1072";
+}
+
+.icon-ehs-clear1:before {
+  content: "\e1071";
+}
+
+.icon-ehs-edit1:before {
+  content: "\e1070";
+}
+
+.icon-ehs-upload:before {
+  content: "\e1069";
+}
+
+.icon-ehs-bell:before {
+  content: "\e068";
+}
+
+.icon-ehs-menu-icon:before {
+  content: "\e1067";
+}
+
+.icon-ehs-menu-open:before {
+  content: "\e1066";
+}
+
+.icon-ehs-menu-fold:before {
+  content: "\e1065";
+}
+
+.icon-ehs-hamburger-button:before {
+  content: "\e1064";
+}
+
+.icon-ehs-eye:before {
+  content: "\e1063";
+}
+
+.icon-ehs-chinese:before {
+  content: "\e1062";
+}
+
+.icon-ehs-eye-invisible:before {
+  content: "\e1061";
+}
+
+.icon-ehs-language:before {
+  content: "\e1060";
+}
+
+.icon-ehs-input-affix:before {
+  content: "\e1059";
+}
+
+.icon-ehs-chinese-fan:before {
+  content: "\e1058";
+}
+
+.icon-ehs-lock:before {
+  content: "\e1057";
+}
+
+.icon-ehs-english:before {
+  content: "\e1056";
+}
+
+.icon-ehs-global:before {
+  content: "\e1055";
+}
+
+.icon-ehs-international:before {
+  content: "\e1054";
+}
+
+.icon-ehs-construction:before {
+  content: "\e1053";
+}
+
+.icon-ehs-environment:before {
+  content: "\e1052";
+}
+
+.icon-ehs-team:before {
+  content: "\e1051";
+}
+
+.icon-ehs-setting1:before {
+  content: "\e1050";
+}
+
+.icon-ehs-inconformity:before {
+  content: "\e1049";
+}
+
+.icon-ehs-co2:before {
+  content: "\e1048";
+}
+
+.icon-ehs-security-scan:before {
+  content: "\e1047";
+}
+
+.icon-ehs-inspection:before {
+  content: "\e1046";
+}
+
+.icon-ehs-train1:before {
+  content: "\e1045";
+}
+
+.icon-ehs-healthy:before {
+  content: "\e1044";
+}
+
+.icon-ehs-icon-wrapper:before {
+  content: "\e1043";
+}
+
+.icon-ehs-audit:before {
+  content: "\e1042";
+}
+
+.icon-ehs-people:before {
+  content: "\e1041";
+}
+
+.icon-ehs-big-srceen:before {
+  content: "\e1040";
+}
+
+.icon-ehs-fire:before {
+  content: "\e1039";
+}
+
+.icon-ehs-accident:before {
+  content: "\e1038";
+}
+
+.icon-ehs-Compass:before {
+  content: "\e1037";
+}
+
+.icon-ehs-dashboard:before {
+  content: "\e1036";
+}
+
+.icon-ehs-cuvette:before {
+  content: "\e1035";
+}
+
+.icon-ehs-arrow:before {
+  content: "\e1034";
+}
+
+.icon-ehs-return:before {
+  content: "\e1033";
+}
+
+.icon-ehs-server:before {
+  content: "\e1032";
+}
+
+.icon-ehs-hidden1:before {
+  content: "\e1031";
+}
+
+.icon-ehs-uesr:before {
+  content: "\e1030";
+}
+
+.icon-ehs-abnormal:before {
+  content: "\e1029";
+}
+
+.icon-ehs-non-execution:before {
+  content: "\1028";
+}
+
+.icon-ehs-end:before {
+  content: "\e1027";
+}
+
+.icon-ehs-map-point:before {
+  content: "\e1026";
+}
+
+.icon-ehs-alarm-handle:before {
+  content: "\e1025";
+}
+
+.icon-ehs-security-management:before {
+  content: "\e1024";
+}
+
+.icon-ehs-fire-management:before {
+  content: "\e1023";
+}
+
+.icon-ehs-zone:before {
+  content: "\e1022";
+}
+
+.icon-ehs-equipment-online:before {
+  content: "\e1021";
+}
+
+.icon-ehs-alarm-processe:before {
+  content: "\1020";
+}
+
+.icon-ehs-num-point:before {
+  content: "\e1019";
+}
+
+.icon-ehs-percent:before {
+  content: "\e1018";
+}
+
+.icon-ehs-deal:before {
+  content: "\e1017";
+}
+
+.icon-ehs-revise:before {
+  content: "\e1016";
+}
+
+.icon-ehs-control-risk:before {
+  content: "\e1015";
+}
+
+.icon-ehs-histogram-circle:before {
+  content: "\e1014";
+}
+
+.icon-ehs-risk-factor:before {
+  content: "\e1013";
+}
+
+.icon-ehs-my-mission:before {
+  content: "\e1012";
+}
+
+.icon-ehs-fixed-risk:before {
+  content: "\e1011";
+}
+
+.icon-ehs-three-points-fill:before {
+  content: "\e1010";
+}
+
+.icon-ehs-jurisdiction:before {
+  content: "\e1009";
+}
+
+.icon-ehs-choice-triangle:before {
+  content: "\e1008";
+}
+
+.icon-ehs-notify-me:before {
+  content: "\e1007";
+}
+
+.icon-ehs-find:before {
+  content: "\e1006";
+}
+
+.icon-ehs-close:before {
+  content: "\e1005";
+}
+
+.icon-ehs-signed:before {
+  content: "\e1004";
+}
+
+.icon-ehs-screen:before {
+  content: "\e1003";
+}
+
+.icon-ehs-circular:before {
+  content: "\e1002";
+}
+
+.icon-ehs-export:before {
+  content: "\e1001";
+}
+
+.icon-ehs-ditto:before {
+  content: "\e1000";
+}
+
+.icon-ehs-change:before {
+  content: "\e999";
+}
+
+.icon-ehs-calendar-list:before {
+  content: "\e998";
+}
+
+.icon-ehs-calendar-list-fill:before {
+  content: "\e997";
+}
+
+.icon-ehs-environmental-protection-bureau:before {
+  content: "\e996";
+}
+
+.icon-ehs-file-fill:before {
+  content: "\e995";
+}
+
+.icon-ehs-approval-line:before {
+  content: "\e994";
+}
+
+.icon-ehs-pending-approval-line:before {
+  content: "\e993";
+}
+
+.icon-ehs-camera-lens:before {
+  content: "\e988";
+}
+
+.icon-ehs-answer:before {
+  content: "\e991";
+}
+
+.icon-ehs-hang-up:before {
+  content: "\e990";
+}
+
+.icon-ehs-no-video:before {
+  content: "\e992";
+}
+
+.icon-ehs-no-voice:before {
+  content: "\e989";
+}
+
+.icon-ehs-video:before {
+  content: "\e987";
+}
+
+.icon-ehs-voice:before {
+  content: "\e977";
+}
+
+.icon-ehs-video-call:before {
+  content: "\e879";
+}
+
+.icon-ehs-time:before {
+  content: "\e976";
+}
+
+.icon-label-fill-big:before {
+  content: "\e910";
+}
+
+.icon-ehs-hourglass:before {
+  content: "\e960";
+}
+
+.icon-ehs-sand-filter:before {
+  content: "\e897";
+}
+
+.icon-ehs-label-fill:before {
+  content: "\e986";
+}
+
+.icon-ehs-left-right-arrow:before {
+  content: "\e985";
+}
+
+.icon-ehs-switch-fill:before {
+  content: "\e984";
+}
+
+.icon-ehs-tupian:before {
+  content: "\e983";
+}
+
+.icon-ehs-calendar:before {
+  content: "\e982";
+}
+
+.icon-ehs-plus-fill:before {
+  content: "\e981";
+}
+
+.icon-ehs-entrust:before {
+  content: "\e980";
+}
+
+.icon-ehs-camera:before {
+  content: "\e979";
+}
+
+.icon-ehs-filedone:before {
+  content: "\e978";
+}
+
+.icon-ehs-company:before {
+  content: "\e975";
+}
+
+.icon-ehs-location:before {
+  content: "\e974";
+}
+
+.icon-ehs-label:before {
+  content: "\e973";
+}
+
+.icon-ehs-alarm-bell:before {
+  content: "\e972";
+}
+
+.icon-ehs-notice:before {
+  content: "\e971";
+}
+
+.icon-ehs-wait:before {
+  content: "\e970";
+}
+
+.icon-ehs-add-people:before {
+  content: "\e969";
+}
+
+.icon-ehs-launch:before {
+  content: "\e968";
+}
+
+.icon-ehs-region:before {
+  content: "\e967";
+}
+
+.icon-ehs-squares:before {
+  content: "\e966";
+}
+
+.icon-ehs-four-squares:before {
+  content: "\e965";
+}
+
+.icon-ehs-four-squares-fill:before {
+  content: "\e964";
+}
+
+.icon-ehs-hourglass-fill:before {
+  content: "\e961";
+}
+
+.icon-ehs-news-fill:before {
+  content: "\e959";
+}
+
+.icon-ehs-news:before {
+  content: "\e958";
+}
+
+.icon-ehs-supplement:before {
+  content: "\e957";
+}
+
+.icon-ehs-map-plus:before {
+  content: "\e956";
+}
+
+.icon-ehs-checked-radio-spot:before {
+  content: "\e953";
+}
+
+.icon-ehs-right-wrong-choice:before {
+  content: "\e955";
+}
+
+.icon-ehs-filesearch-line:before {
+  content: "\e954";
+}
+
+.icon-ehs-check-square:before {
+  content: "\e952";
+}
+
+.icon-ehs-excel:before {
+  content: "\e951";
+}
+
+.icon-ehs-detailed-list:before {
+  content: "\e950";
+}
+
+.icon-ehs-check-square-fill:before {
+  content: "\e949";
+}
+
+.icon-ehs-Import:before {
+  content: "\e946";
+}
+
+.icon-ehs-point-position:before {
+  content: "\e945";
+}
+
+.icon-ehs-no-square:before {
+  content: "\e944";
+}
+
+.icon-ehs-file-copy:before {
+  content: "\e943";
+}
+
+.icon-ehs-filesearch:before {
+  content: "\e942";
+}
+
+.icon-ehs-reconciliation:before {
+  content: "\e940";
+}
+
+.icon-ehs-to-update:before {
+  content: "\e939";
+}
+
+.icon-ehs-smallscreen:before {
+  content: "\e936";
+}
+
+.icon-ehs-fullscreen:before {
+  content: "\e935";
+}
+
+.icon-ehs-warehousing:before {
+  content: "\e934";
+}
+
+.icon-ehs-clock:before {
+  content: "\e933";
+}
+
+.icon-ehs-add:before {
+  content: "\e932";
+}
+
+.icon-ehs-magnifier:before {
+  content: "\e931";
+}
+
+.icon-ehs-warehouse:before {
+  content: "\e930";
+}
+
+.icon-ehs-cube:before {
+  content: "\e929";
+}
+
+.icon-ehs-seal:before {
+  content: "\e928";
+}
+
+.icon-ehs-apply:before {
+  content: "\e9267";
+}
+
+.icon-ehs-structure:before {
+  content: "\e926";
+}
+
+.icon-ehs-plan:before {
+  content: "\e923";
+}
+
+.icon-ehs-pie-chart-base:before {
+  content: "\e920";
+}
+
+.icon-ehs-floor:before {
+  content: "\e925";
+}
+
+.icon-ehs-building:before {
+  content: "\e924";
+}
+
+.icon-ehs-bar-chart-base:before {
+  content: "\e922";
+}
+
+.icon-ehs-table-base:before {
+  content: "\e921";
+}
+
+.icon-ehs-pending-fillsvg:before {
+  content: "\e904";
+}
+
+.icon-ehs-project:before {
+  content: "\e919";
+}
+
+.icon-ehs-home:before {
+  content: "\e918";
+}
+
+.icon-ehs-examine:before {
+  content: "\e917";
+}
+
+.icon-ehs-alarm:before {
+  content: "\e916";
+}
+
+.icon-ehs-file:before {
+  content: "\e915";
+}
+
+.icon-ehs-location-squre:before {
+  content: "\e914";
+}
+
+.icon-ehs-hidden-danger:before {
+  content: "\e913";
+}
+
+.icon-ehs-regulations:before {
+  content: "\e912";
+}
+
+.icon-ehs-training2:before {
+  content: "\e911";
+}
+
+.icon-ehs-position:before {
+  content: "\e909";
+}
+
+.icon-ehs-risk:before {
+  content: "\e908";
+}
+
+.icon-ehs-train:before {
+  content: "\e907";
+}
+
+.icon-ehs-double-left:before {
+  content: "\e906";
+}
+
+.icon-ehs-double-right:before {
+  content: "\e905";
+}
+
+.icon-ehs-pending:before {
+  content: "\e903";
+}
+
+.icon-ehs-supplier:before {
+  content: "\e901";
+}
+
+.icon-ehs-configuration-management:before {
+  content: "\e902";
+}
+
+.icon-ehs-review1:before {
+  content: "\e900";
+}
+
+.icon-ehs-refuse:before {
+  content: "\e899";
+}
+
+.icon-ehs-work-status:before {
+  content: "\e898";
+}
+
+.icon-ehs-delete:before {
+  content: "\e835";
+}
+
+.icon-ehs-checked-square:before {
+  content: "\e849";
+}
+
+.icon-ehs-well-factory:before {
+  content: "\e814";
+}
+
+.icon-ehs-edit:before {
+  content: "\e887";
+}
+
+.icon-ehs-setting-square:before {
+  content: "\e892";
+}
+
+.icon-ehs-user-account:before {
+  content: "\e842";
+}
+
+.icon-ehs-user-unaccount:before {
+  content: "\e844";
+}
+
+.icon-ehs-user-trained:before {
+  content: "\e877";
+}
+
+.icon-ehs-avatar-circle:before {
+  content: "\e878";
+}
+
+.icon-ehs-catch:before {
+  content: "\e880";
+}
+
+.icon-ehs-approved-text:before {
+  content: "\e881";
+}
+
+.icon-ehs-current-work:before {
+  content: "\e882";
+}
+
+.icon-ehs-approving-text:before {
+  content: "\e883";
+}
+
+.icon-ehs-complete-training:before {
+  content: "\e884";
+}
+
+.icon-ehs-plan-progress:before {
+  content: "\e885";
+}
+
+.icon-ehs-redo-square:before {
+  content: "\e886";
+}
+
+.icon-ehs-beeline-square:before {
+  content: "\e888";
+}
+
+.icon-ehs-swp-audit:before {
+  content: "\e889";
+}
+
+.icon-ehs-select-square:before {
+  content: "\e890";
+}
+
+.icon-ehs-current-work-text:before {
+  content: "\e891";
+}
+
+.icon-ehs-text-square:before {
+  content: "\e893";
+}
+
+.icon-ehs-curve-square:before {
+  content: "\e894";
+}
+
+.icon-ehs-undo-square:before {
+  content: "\e895";
+}
+
+.icon-ehs-total-period:before {
+  content: "\e896";
+}
+
+.icon-ehs-cancel-square:before {
+  content: "\e843";
+}
+
+.icon-ehs-assignment:before {
+  content: "\e845";
+}
+
+.icon-ehs-audit-finding:before {
+  content: "\e846";
+}
+
+.icon-ehs-batch-review:before {
+  content: "\e847";
+}
+
+.icon-ehs-delegate:before {
+  content: "\e848";
+}
+
+.icon-ehs-exclamation:before {
+  content: "\e850";
+}
+
+.icon-ehs-pass:before {
+  content: "\e851";
+}
+
+.icon-ehs-delay-filled:before {
+  content: "\e852";
+}
+
+.icon-ehs-check-item:before {
+  content: "\e853";
+}
+
+.icon-ehs-qrcode:before {
+  content: "\e854";
+}
+
+.icon-ehs-exclamation-filled:before {
+  content: "\e855";
+}
+
+.icon-ehs-pass-filled:before {
+  content: "\e856";
+}
+
+.icon-ehs-reading:before {
+  content: "\e857";
+}
+
+.icon-ehs-noco-closed:before {
+  content: "\e858";
+}
+
+.icon-ehs-reject:before {
+  content: "\e859";
+}
+
+.icon-ehs-disabled:before {
+  content: "\e860";
+}
+
+.icon-ehs-show:before {
+  content: "\e861";
+}
+
+.icon-ehs-statistics-xy:before {
+  content: "\e862";
+}
+
+.icon-ehs-audit-history:before {
+  content: "\e863";
+}
+
+.icon-ehs-send-filled:before {
+  content: "\e864";
+}
+
+.icon-ehs-topic:before {
+  content: "\e865";
+}
+
+.icon-ehs-delay:before {
+  content: "\e866";
+}
+
+.icon-ehs-reject-filled:before {
+  content: "\e867";
+}
+
+.icon-ehs-hidden:before {
+  content: "\e868";
+}
+
+.icon-ehs-statistics-x:before {
+  content: "\e869";
+}
+
+.icon-ehs-self-evaluation:before {
+  content: "\e870";
+}
+
+.icon-ehs-training1:before {
+  content: "\e871";
+}
+
+.icon-ehs-review-filled:before {
+  content: "\e872";
+}
+
+.icon-ehs-task-statistics:before {
+  content: "\e873";
+}
+
+.icon-ehs-review:before {
+  content: "\e874";
+}
+
+.icon-ehs-left-circle-filled:before {
+  content: "\e875";
+}
+
+.icon-ehs-task:before {
+  content: "\e876";
+}
+
+.icon-ehs-cap:before {
+  content: "\e841";
+}
+
+.icon-ehs-edit-square:before {
+  content: "\e805";
+}
+
+.icon-ehs-checked-circle:before {
+  content: "\e806";
+}
+
+.icon-ehs-down-square:before {
+  content: "\e807";
+}
+
+.icon-ehs-close-finding:before {
+  content: "\e808";
+}
+
+.icon-ehs-close-circle-filled:before {
+  content: "\e809";
+}
+
+.icon-ehs-detail-finding:before {
+  content: "\e810";
+}
+
+.icon-ehs-average-score:before {
+  content: "\e811";
+}
+
+.icon-ehs-minus-circle-filled:before {
+  content: "\e812";
+}
+
+.icon-ehs-initial-audit:before {
+  content: "\e813";
+}
+
+.icon-ehs-right:before {
+  content: "\e815";
+}
+
+.icon-ehs-instruction:before {
+  content: "\e816";
+}
+
+.icon-ehs-multi-select:before {
+  content: "\e817";
+}
+
+.icon-ehs-refuse-circle:before {
+  content: "\e818";
+}
+
+.icon-ehs-critical-finding:before {
+  content: "\e819";
+}
+
+.icon-ehs-edit-file:before {
+  content: "\e820";
+}
+
+.icon-ehs-add-filled:before {
+  content: "\e821";
+}
+
+.icon-ehs-setting:before {
+  content: "\e822";
+}
+
+.icon-ehs-statistics:before {
+  content: "\e823";
+}
+
+.icon-ehs-total-audit:before {
+  content: "\e824";
+}
+
+.icon-ehs-left:before {
+  content: "\e825";
+}
+
+.icon-ehs-more:before {
+  content: "\e826";
+}
+
+.icon-ehs-up-square:before {
+  content: "\e827";
+}
+
+.icon-ehs-down:before {
+  content: "\e828";
+}
+
+.icon-ehs-link:before {
+  content: "\e829";
+}
+
+.icon-ehs-pass-circle:before {
+  content: "\e830";
+}
+
+.icon-ehs-no-score:before {
+  content: "\e831";
+}
+
+.icon-ehs-upload-img:before {
+  content: "\e832";
+}
+
+.icon-ehs-search:before {
+  content: "\e833";
+}
+
+.icon-ehs-user-audit-firm:before {
+  content: "\e834";
+}
+
+.icon-ehs-submit:before {
+  content: "\e836";
+}
+
+.icon-ehs-paperclip-square-filled:before {
+  content: "\e837";
+}
+
+.icon-ehs-up:before {
+  content: "\e838";
+}
+
+.icon-ehs-topping:before {
+  content: "\e839";
+}
+
+.icon-ehs-update-info:before {
+  content: "\e840";
+}
+
+.icon-ehs-restore:before {
+  content: "\e800";
+}
+
+.icon-ehs-prompt:before {
+  content: "\e801";
+}
+
+.icon-ehs-training:before {
+  content: "\e802";
+}
+
+.icon-ehs-read:before {
+  content: "\e803";
+}
+
+.icon-ehs-trainingresult:before {
+  content: "\e804";
+}
+
