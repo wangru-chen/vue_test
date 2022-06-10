@@ -1,4 +1,4 @@
-import { defineComponent} from 'vue'
+import { defineComponent, onMounted} from 'vue'
 import {
   View as IconView
 } from '@element-plus/icons-vue';
@@ -8,7 +8,7 @@ export default defineComponent({
         return {
             count: 0,
             buttonList: [1, 2, 3],
-            max: 0,
+            max: 1000,
             value: 0,
         }
     },
@@ -23,6 +23,9 @@ export default defineComponent({
         inputSlider() {
 
         }
+    },
+    onMounted() {
+        console.log('1111111')
     },
     render() { 
         return <div>
@@ -43,7 +46,7 @@ export default defineComponent({
                 }
             </el-scrollbar>
             <el-slider
-                v-modal={this.value}
+                // vModal={this.value}
                 max={this.max}
                 onInput={this.inputSlider}
             />
